@@ -675,7 +675,6 @@ export default function App() {
         </motion.div>
       </div>
     );
-  }
 
   if (showOnboarding) {
     const qOpts = ["Bem definido", "Leve contorno", "Normal", "Pequena camada de gordura", "Gordura bastante evidente"];
